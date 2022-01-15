@@ -1,0 +1,5 @@
+a = ('a', 'b', 'c', 'd')
+print(type(a))
+b = ''.join(a)
+print(b)
+print(type(b))
